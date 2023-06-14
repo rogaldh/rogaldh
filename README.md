@@ -2,8 +2,6 @@
 
 <p>
   <img style="display:inline-block;" src="https://github-readme-stats.vercel.app/api?username=rogaldh&theme=graywhite&show_icons=true&hide_title=true&count_private=true&include_all_commits=true" alt="All Stats"/>
-  
-  <!--<img style="display:inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogaldh&layout=compact&theme=graywhite&hide=php" alt="Top langs"/>-->
 </p>
 
 
