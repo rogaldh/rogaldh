@@ -1,7 +1,7 @@
 🤙 Hello there, I'm a professional software engineer.
 
 <p>
-  <img style="display:inline-block;" src="https://github-readme-stats.vercel.app/api?username=rogaldh&theme=graywhite&show_icons=true&hide_title=true&count_private=true&include_all_commits=true" alt="All Stats"/>
+  <img style="display:inline-block;" src="https://github-readme-stats.vercel.app/api?username=rogaldh&show_icons=true&layout=pie&count_private=true&include_all_commits=true&hide_title=true&theme=graywhite&hide_border=true&disable_animations=true&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Stats"/>
 </p>
 
 
